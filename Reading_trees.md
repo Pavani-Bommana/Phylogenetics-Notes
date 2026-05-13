@@ -23,20 +23,24 @@ A **Clade** is a group consisting of an ancestral node and all of its descendant
 <img width="824" height="457" alt="image" src="https://github.com/user-attachments/assets/f0199343-22da-4cb4-8302-fce03844fcc1" />
 
 Reading trees
+
 Branch rotations don't change the tree!
+
 <img width="795" height="413" alt="image" src="https://github.com/user-attachments/assets/4ae0debf-f843-4ad9-b5a9-2efca0177a45" />
+
 Same tree, different representations!
+
 <img width="822" height="533" alt="image" src="https://github.com/user-attachments/assets/630b05d8-80ec-4287-a971-7bd920513b8e" />
 
 
 
 
 
-
 ## References
-* [EMBL-EBI: Introduction to Phylogenetics](https://www.ebi.ac.uk/training/online/courses/introduction-to-phylogenetics/what-is-a-phylogeny/aspects-of-phylogenies/)
-* [understanding-phylogenies]([https://www.ebi.ac.uk/training/online/courses/introduction-to-phylogenetics/what-is-a-phylogeny/aspects-of-phylogenies/](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/understanding-phylogenies/))
-*  [CDC-phylogenies](https://www.cdc.gov/advanced-molecular-detection/media/pdfs/ToolkitModule_1.3-508C.pdf))
+
+* **EMBL-EBI:** [Introduction to Phylogenetics – Aspects of Phylogenies](https://www.ebi.ac.uk/training/online/courses/introduction-to-phylogenetics/what-is-a-phylogeny/aspects-of-phylogenies/)
+* **Evolution 101 (Berkeley):** [Understanding Phylogenies](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/understanding-phylogenies/)
+* **CDC Toolkit:** [Introduction to Phylogenetics (Module 1.3)](https://www.cdc.gov/advanced-molecular-detection/media/pdfs/ToolkitModule_1.3-508C.pdf)
 
 
 
