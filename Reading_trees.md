@@ -3,7 +3,7 @@
 **Topology:** branching structure of the tree. It is of particular biological significance because it indicates patterns of relatedness among taxa, meaning that trees with the same topology and root have the same biological interpretation. 
 <img width="726" height="502" alt="image" src="https://github.com/user-attachments/assets/08bf9378-2006-42c0-994f-4a9631466b00" />
 
-The **Tips** are the external nodes at the end of the branches.
+The **Tips/Leaf** are the external nodes at the end of the branches.
 
 A **Node** represents a branching point on the tree.
 **Internal Node:** Represents a common ancestor of the lineages descending from it (a speciation event).
@@ -20,6 +20,14 @@ A **Clade** is a group consisting of an ancestral node and all of its descendant
 
 
 **Outgroup:** A taxon or group that is known to have diverged earlier than the group of interest (the ingroup). It is used to "root" the tree and give it direction.
+<img width="824" height="457" alt="image" src="https://github.com/user-attachments/assets/f0199343-22da-4cb4-8302-fce03844fcc1" />
+
+Reading trees
+Branch rotations don't change the tree!
+<img width="795" height="413" alt="image" src="https://github.com/user-attachments/assets/4ae0debf-f843-4ad9-b5a9-2efca0177a45" />
+Same tree, different representations!
+<img width="822" height="533" alt="image" src="https://github.com/user-attachments/assets/630b05d8-80ec-4287-a971-7bd920513b8e" />
+
 
 
 
@@ -28,6 +36,7 @@ A **Clade** is a group consisting of an ancestral node and all of its descendant
 ## References
 * [EMBL-EBI: Introduction to Phylogenetics](https://www.ebi.ac.uk/training/online/courses/introduction-to-phylogenetics/what-is-a-phylogeny/aspects-of-phylogenies/)
 * [understanding-phylogenies]([https://www.ebi.ac.uk/training/online/courses/introduction-to-phylogenetics/what-is-a-phylogeny/aspects-of-phylogenies/](https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/understanding-phylogenies/))
+*  [CDC-phylogenies](https://www.cdc.gov/advanced-molecular-detection/media/pdfs/ToolkitModule_1.3-508C.pdf))
 
 
 
