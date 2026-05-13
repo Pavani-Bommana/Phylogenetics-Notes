@@ -33,6 +33,32 @@ Same tree, different representations!
 <img width="822" height="533" alt="image" src="https://github.com/user-attachments/assets/630b05d8-80ec-4287-a971-7bd920513b8e" />
 
 
+In phylogenetics, "relatedness" isn't about how close the tips are to each other vertically on the page; it's about how far back you have to go to find their Most Recent Common Ancestor (MRCA).
+**Path Length(Patristic Distance)** : The distance between two tips is the sum of the lengths of all the branches that connect them.
+in the below tree, distnace between A and C is 0.7(0.1+0.1+0.3+0.2), A and D is 0.6(0.1+0.1+0.2+0.2) even C seems closer in vertically 
+
+Distance = the total length of the "travel path" between two tips.
+* **Short path:** High genetic similarity.
+* **Long path:** High genetic divergence.
+
+(0.5)
+      ┌────────────────────────────────────────── E (Outgroup)
+      │
+Root ─┤ (0.4)           (0.1)        (0.1)
+      └──────── Node 1 ──────── Node 3 ─────── A (Tip)
+                 │                │  (0.1)
+                 │                └────────── B (Tip)
+                 │      (0.2)       (0.3)
+                 └───────────── Node 2 ─────── C (Tip)
+                                  │  (0.2)
+                                  └────────── D (Tip)
+
+
+**Monophyletic:** A group that includes the ancestor and ALL of its descendants.
+**Paraphyletic:** Includes the ancestor and some, but not all, of its descendants.
+**Polyphyletic:** A group of organisms that do not share a recent common ancestor.
+<img width="350" height="242" alt="image" src="https://github.com/user-attachments/assets/a5150540-ea62-4ea4-af81-696b8b14be7f" />
+
 
 
 
