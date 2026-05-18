@@ -25,7 +25,7 @@ A **Clade** is a group consisting of an ancestral node and all of its descendant
 
 <img width="824" height="457" alt="image" src="https://github.com/user-attachments/assets/f0199343-22da-4cb4-8302-fce03844fcc1" />
 
-Reading trees
+**Reading trees**
 
 Branch rotations don't change the tree!
 
