@@ -16,10 +16,13 @@ A **Node** represents a branching point on the tree.
 **Lineage** is a single line of descent or a continuous sequence of ancestors and descendants through time. On a tree, this is often represented by a series of connected branches starting from the root to a specific tip.
 
 A **Clade** is a group consisting of an ancestral node and all of its descendants.
+
 <img width="745" height="528" alt="image" src="https://github.com/user-attachments/assets/b12da1e4-f7bd-4ac7-b39c-17a6b1893256" />
 
 
 **Outgroup:** A taxon or group that is known to have diverged earlier than the group of interest (the ingroup). It is used to "root" the tree and give it direction.
+
+
 <img width="824" height="457" alt="image" src="https://github.com/user-attachments/assets/f0199343-22da-4cb4-8302-fce03844fcc1" />
 
 Reading trees
@@ -28,9 +31,11 @@ Branch rotations don't change the tree!
 
 <img width="795" height="413" alt="image" src="https://github.com/user-attachments/assets/4ae0debf-f843-4ad9-b5a9-2efca0177a45" />
 
+
 Same tree, different representations!
 
 <img width="822" height="533" alt="image" src="https://github.com/user-attachments/assets/630b05d8-80ec-4287-a971-7bd920513b8e" />
+
 
 
 In phylogenetics, "relatedness" isn't about how close the tips are to each other vertically on the page; it's about how far back you have to go to find their Most Recent Common Ancestor (MRCA).
