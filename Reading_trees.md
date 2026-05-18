@@ -49,8 +49,11 @@ Distance = the total length of the "travel path" between two tips.
 
 
 **Monophyletic:** A group that includes the ancestor and ALL of its descendants.
+
 **Paraphyletic:** Includes the ancestor and some, but not all, of its descendants.
+
 **Polyphyletic:** A group of organisms that do not share a recent common ancestor.
+
 <img width="350" height="242" alt="image" src="https://github.com/user-attachments/assets/a5150540-ea62-4ea4-af81-696b8b14be7f" />
 
 
