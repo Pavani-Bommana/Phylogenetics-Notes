@@ -40,18 +40,7 @@ in the below tree, distnace between A and C is 0.7(0.1+0.1+0.3+0.2), A and D is 
 Distance = the total length of the "travel path" between two tips.
 * **Short path:** High genetic similarity.
 * **Long path:** High genetic divergence.
-
-(0.5)
-      ┌────────────────────────────────────────── E (Outgroup)
-      │
-Root ─┤ (0.4)           (0.1)        (0.1)
-      └──────── Node 1 ──────── Node 3 ─────── A (Tip)
-                 │                │  (0.1)
-                 │                └────────── B (Tip)
-                 │      (0.2)       (0.3)
-                 └───────────── Node 2 ─────── C (Tip)
-                                  │  (0.2)
-                                  └────────── D (Tip)
+<img width="453" height="253" alt="image" src="https://github.com/user-attachments/assets/1c9bba83-dd5a-498f-b016-dd5e4a0a50bf" />
 
 
 **Monophyletic:** A group that includes the ancestor and ALL of its descendants.
