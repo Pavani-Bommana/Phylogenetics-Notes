@@ -1,3 +1,2 @@
 
-
-![Phylogenetic Methods Classification Tree](https://images.squarespace-cdn.com/content/v1/55b3896de4b005ffc32f8653/1517409419163-4H4I4C2CHL42Y4X1Z0X6/Phylogenetic_methods_tree.png)
+<img width="681" height="342" alt="image" src="https://github.com/user-attachments/assets/0d4b99c2-0448-4b93-9bbb-4a2546a44850" />
