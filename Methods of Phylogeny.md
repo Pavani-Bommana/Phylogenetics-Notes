@@ -21,8 +21,8 @@ These methods are entirely model-based, utilizing complex statistical parameters
 * **Maximum Likelihood (ML):** Evaluates the data to find the single tree topology that maximizes the likelihood function.
 * **Bayesian Inference (BI):** Uses MCMC to estimate the posterior probability distribution of trees.
 * Both methods:
-Search tree space to find the best tree
-Require an explicit model of evolution
-Can incorporate rate heterogeneity
+Search tree space to find the best tree, 
+Require an explicit model of evolution, 
+Can incorporate rate heterogeneity. 
 
 
